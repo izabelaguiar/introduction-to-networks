@@ -19,3 +19,5 @@ Students reported gaining an understanding of how mathematics and computer scien
 > Students were taught a few basic tools implemented in `networkx` to analyze networks and their social implications in the `Analyzing_Networks.ipynb` notebook.
 ### At-home Exercise
 > Teams were given a unique network dataset and asked to interpret and analyze it using the tools we've used in class. The template they were given was `Final_Project.ipynb`.
+## Day Four
+### Student Presentations
