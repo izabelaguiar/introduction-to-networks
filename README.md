@@ -1,5 +1,7 @@
 # Ohlone Code Good
-This repository contains material from the 2021 Ohlone College Code Good workshop. Students in the workshop had a wide range of backgrounds in both math and CS, with some students indicating that they had never coded before.
+I designed this course to teach first and second year students at Ohlone Community College about the broader impacts of mathematics and computer science. The course focused on teaching an introduction to python, graph theory, and network science to students from a wide range of backgrounds. The course included python exercises and tutorials, group projects on analyzing real-world data sets, and presentations. To assist in the remote teaching of this course, and to make it accessible to others teaching introductory graph theory, I made video tutorials and this github repository containing all notes, homework assignments, and the final project. [Videos can be found here](https://youtube.com/playlist?list=PLs5wTbmV190DihGBZXd1OrCN-WWd3MpGc).
+
+Students reported gaining an understanding of how mathematics and computer science can be used to address and help issues of social good. This class was designed for students with little-to-no coding or graph-theory background and feedback from students indicated that they finished the course feeling more motivated to pursue CS/math in order to make positive social change in their communities.
 ## Day One
 ### Lecture
 > Introduced various settings where code has been used for "good". Had students research one topic and present an overview to the class. Related files are `CodeGood_DayOne.key` which is the keynote presentation containing links to all the projects. 
