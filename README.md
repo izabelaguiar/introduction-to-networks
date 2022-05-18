@@ -8,9 +8,10 @@ Students reported gaining an understanding of how mathematics and computer scien
 ### At-home Exercise
 > Students learned how to use and set-up jupyter notebooks with the `Jupyter_Tutorial.ipynb` notebook.
 > Students were introduced to matrices and the `numpy` and `networkx` libraries in the `First_Exercise.ipynb` notebook.
+> Students were asked to fill out a survey to collect data for the social network of this class!
 ## Day Two
 ### Lecture
-> Introduction to graph theory and social networks in the `Graph_Theory.ipynb` notebook.
+> Introduction to graph theory and social networks in the `Graph_Theory.ipynb` notebook using data from our class's social network.
 > Introduction to visualising networks using `networkx` in the `Visualizing_Networks.ipynb` notebook.
 ### At-home Exercise
 > Exploration of adjacency matrices and social networks in the context of contact tracing in the `Second_Exercise.ipynb` notebook.
